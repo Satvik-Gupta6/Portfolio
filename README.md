@@ -18,3 +18,5 @@ SATVEEK GUPTA
 
 
 <sub>**Design heavily inspired by [Alistair](https://github.com/alii)'s [personal site](https://alistair.sh)**</sub>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea4596be-945b-4d74-ab59-617974221230/deploy-status)](https://app.netlify.com/sites/incandescent-donut-417bc7/deploys)
