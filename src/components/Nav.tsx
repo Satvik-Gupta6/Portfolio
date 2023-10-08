@@ -89,7 +89,7 @@ const Nav = () => {
                     />
                     <LinkButton
                         title="Twitter"
-                        href={"https://twitter.com/SATVIKG369"}
+                        href={"https://twitter.com/satveekg9"}
                         icon={
                             <SiTwitter className="w-6 h-6 cursor-pointer hover:fill-white fill-gray-400 transition-colors" />
                         }
@@ -164,7 +164,7 @@ const Nav = () => {
                                     icon={<SiGithub className="w-6 h-6 cursor-pointer" />}
                                 />
                                 <LinkButton
-                                    href={"https://twitter.com/SATVIKG369"}
+                                    href={"https://twitter.com/satveekg9"}
                                     icon={<SiTwitter className="w-6 h-6 cursor-pointer" />}
                                 />
                                 <LinkButton

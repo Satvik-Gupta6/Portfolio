@@ -37,7 +37,7 @@ const Talk = () => {
                     <ContactLink
                         name="@SATVIKG369"
                         icon={<SiTwitter className="w-6 h-6 text-[#1DA1F2]" />}
-                        link="https://twitter.com/SATVIKG369"
+                        link="https://twitter.com/satveekg9"
                         borderColor="hover:border-[#1DA1F2]/50"
                     />
 
